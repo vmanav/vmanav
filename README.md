@@ -2,9 +2,9 @@
 <h4 align="center">Delhi based FullStack Developer</h4>
 
 
-- 🔭 I’m currently working with [Interviewbit](https://www.interviewbit.com)/ [Scaler Academy](https://www.scaler.com) as a Software Engineer.
+- 🔭 I’m currently working with [Interviewbit](https://www.interviewbit.com)/ [Scaler Academy](https://www.scaler.com) as a Software Engineer. [Feb 2021 - Present]
 - 🏠 Here from past 8 months : [Work Github](https://github.com/manavscaler).
-- ⚕️I've worked with [Innovaccer](https://innovaccer.com) as a SDE Intern. 
+- ⚕️I've worked with [Innovaccer](https://innovaccer.com) as a SDE Intern. [Apr 2021- June 2021] 
 - 🏫 Graduated from JIIT, Noida in 2021. 
 
 - 🛠️ My tools for Development: _**Javascript, React, Node.js, Ruby on Rails, TypeScript, HTML, CSS, SQL(MqSql) and NoSql(MongoDB).**_ 
