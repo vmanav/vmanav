@@ -1,18 +1,22 @@
 <h1 align="center">Hi, I am Manav Verma</h1>
-<h4 align="center">Delhi based FullStack Developer</h4>
+<h4 align="center">Full-Stack Developer | React & Ruby on Rails</h4>
 
+- 🎓 Currently pursuing **MSc in Computing Science** at **University College Cork (UCC)** (2024 - 2025), Cork, Ireland.
+- 🔭 **Ex-Software Engineer 2** at [Scaler](https://www.scaler.com) / [InterviewBit](https://www.interviewbit.com) [Feb 2021 - Aug 2024].
+- 💡 Focused on enhancing Scaler's **paid learner experience**, improving performance metrics, and optimizing workflows.
+- 🚀 Revamped the **Course Pause & Reset flow**, increasing learner engagement by **5%**.
+- 🛠️ Developed a **credit-based lecture recording tool**, saving **32 man-hours per month**.
+- 🎯 Led **hiring drives, mentorship programs**, and **tech boot camps**.
+- 🏢 Software Development Intern at [Innovaccer](https://innovaccer.com) (Apr 2020 - Jun 2020).
+- 🎓 Graduated from **JIIT, Noida** with a **B.Tech in IT** (2017 - 2021).
 
-- 🔭 I’m currently working with [Interviewbit](https://www.interviewbit.com)/ [Scaler Academy](https://www.scaler.com) as a Software Engineer. [Feb 2021 - Present]
-- 🏠 Here from past 8 months : [Work Github](https://github.com/manavscaler).
-- ⚕️I've worked with [Innovaccer](https://innovaccer.com) as a SDE Intern. [Apr 2021- June 2021] 
-- 🏫 Graduated from JIIT, Noida in 2021. 
+### 🛠️ Tech Stack:
+**Frontend:** JavaScript, React, TypeScript, HTML, CSS, AngularJS  
+**Backend:** Ruby on Rails, Node.js  
+**Databases:** MongoDB, MySQL, SQLite  
+**Other Tools:** Git, C++
 
-- 🛠️ My tools for Development: _**Javascript, React, Node.js, Ruby on Rails, TypeScript, HTML, CSS, SQL(MqSql) and NoSql(MongoDB).**_ 
+- 📫 Find me here: [zmanav.1999@gmail.com](mailto:zmanav.1999@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vmanav).
+- 🤝 Passionate about **building innovative products** and exploring new tech. Have an idea? Let's connect and brainstorm! 😄
 
-- 📚 Strengthening my Data Structures and Algorithms knowledge every day.
-
-- 📫 Find me Here [zmanav.1999@gmail.com](zmanav.1999@gmail.com) and connect over [LinkedIn](https://www.linkedin.com/in/vmanav).
-
-- Always fascinated and eager to work on interesting and innovative Products, tinkering with things new to me whenever possible. **Have any such idea in mind? Will love to connect and Brainstorm over it.😄**
-
-- Here's my [Resume](https://drive.google.com/file/d/1rnB1amS90XLAJCmgz5VlABS1By0xIgEa).
+📄 [My Resume](https://drive.google.com/file/d/1ZY6U-pWkSvUHiUYrxIYEe45InLh5QaZK/view?usp=sharing)
