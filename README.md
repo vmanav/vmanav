@@ -2,7 +2,7 @@
 <h4 align="center">Full-Stack Developer | React & Ruby on Rails</h4>
 
 - 🎓 Currently pursuing **MSc in Computing Science** at **University College Cork, Cork, Ireland** (2024 - 2025).
-- 🔭 **Ex-Software Engineer 2** at [Scaler](https://www.scaler.com) / [InterviewBit](https://www.interviewbit.com) [Feb 2021 - Aug 2024].
+- 🔭 **Ex-Software Engineer 2** at [Scaler](https://www.scaler.com)[Feb 2021 - Aug 2024], [Work Github](https://github.com/manavscaler).
 - 💡 Focused on enhancing Scaler's **paid learner experience**, improving performance metrics, and optimizing workflows.
 - 🚀 Revamped the **Course Pause & Reset flow**, increasing learner engagement by **5%**.
 - 🛠️ Developed a **credit-based lecture recording tool**, saving **32 man-hours per month**.
