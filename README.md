@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Manav Verma</h1>
 <h4 align="center">Full-Stack Developer | React & Ruby on Rails</h4>
 
-- 🎓 Currently pursuing **MSc in Computing Science** at **University College Cork (UCC)** (2024 - 2025), Cork, Ireland.
+- 🎓 Currently pursuing **MSc in Computing Science** at **University College Cork, Cork, Ireland** (2024 - 2025).
 - 🔭 **Ex-Software Engineer 2** at [Scaler](https://www.scaler.com) / [InterviewBit](https://www.interviewbit.com) [Feb 2021 - Aug 2024].
 - 💡 Focused on enhancing Scaler's **paid learner experience**, improving performance metrics, and optimizing workflows.
 - 🚀 Revamped the **Course Pause & Reset flow**, increasing learner engagement by **5%**.
